@@ -1,0 +1,4 @@
+C:\Users\Igor Matos\Documents\Visual Studio 2015\Projects\Game.Services\Game.Domain\bin\Debug\Game.Domain.dll
+C:\Users\Igor Matos\Documents\Visual Studio 2015\Projects\Game.Services\Game.Domain\bin\Debug\Game.Domain.pdb
+C:\Users\Igor Matos\Documents\Visual Studio 2015\Projects\Game.Services\Game.Domain\obj\Debug\Game.Domain.dll
+C:\Users\Igor Matos\Documents\Visual Studio 2015\Projects\Game.Services\Game.Domain\obj\Debug\Game.Domain.pdb

@@ -1,0 +1,7 @@
+C:\Users\Igor Matos\Documents\Visual Studio 2015\Projects\Game.Services\Game.Services\bin\Debug\Game.Services.dll
+C:\Users\Igor Matos\Documents\Visual Studio 2015\Projects\Game.Services\Game.Services\bin\Debug\Game.Services.pdb
+C:\Users\Igor Matos\Documents\Visual Studio 2015\Projects\Game.Services\Game.Services\bin\Debug\Game.Domain.dll
+C:\Users\Igor Matos\Documents\Visual Studio 2015\Projects\Game.Services\Game.Services\bin\Debug\Game.Domain.pdb
+C:\Users\Igor Matos\Documents\Visual Studio 2015\Projects\Game.Services\Game.Services\obj\Debug\Game.Services.csprojResolveAssemblyReference.cache
+C:\Users\Igor Matos\Documents\Visual Studio 2015\Projects\Game.Services\Game.Services\obj\Debug\Game.Services.dll
+C:\Users\Igor Matos\Documents\Visual Studio 2015\Projects\Game.Services\Game.Services\obj\Debug\Game.Services.pdb
